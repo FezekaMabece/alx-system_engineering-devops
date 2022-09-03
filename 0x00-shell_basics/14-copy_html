@@ -1,2 +1,2 @@
 #!/bin/bash
-HTML document text
+Cp ./*.html /tmp/u
