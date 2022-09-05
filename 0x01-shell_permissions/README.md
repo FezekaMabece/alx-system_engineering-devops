@@ -1,1 +1,1 @@
-shell permissions
+script that prints the effective username
